@@ -1,3 +1,8 @@
 younes	zerouali	123, adresse fictive
+<<<<<<< HEAD
 hilaire Yuma        909,Rue Inconnue
+=======
+Woody Felissier		001 rue one
+carlos Cavalcante	2001, Star Wars
+>>>>>>> 57bef663df4c60b2178eb7748095b00791551d7e
 
