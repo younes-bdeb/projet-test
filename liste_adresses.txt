@@ -1,7 +1,11 @@
 younes	zerouali	123, adresse fictive
 <<<<<<< HEAD
+<<<<<<< HEAD
 hilaire Yuma        909,Rue Inconnue
 =======
+=======
+stephane beauregard 985, ave Saint-Charles
+>>>>>>> a4d5c3c96ff6a11c0d9b0440473c2902a72400d5
 Woody Felissier		001 rue one
 carlos Cavalcante	2001, Star Wars
 <<<<<<< HEAD
