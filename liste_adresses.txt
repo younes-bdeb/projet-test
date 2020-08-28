@@ -1,11 +1,11 @@
+Carlos Cavalcante	2001, Star Wars
 younes	zerouali	123, adresse fictive
-stephane beauregard 985, ave Saint-Charles
+hilaire Yuma        909,Rue Inconnue
+stephane beauregard 985, ave Saint-Charles5
 Woody Felissier		001 rue one
 carlos Cavalcante	2001, Star Wars
-<<<<<<< HEAD
-Guillermo Verano M	518, Quebec
-
-=======
+Guillermo Verano M	518, Quebec 
 anastasia plekhanova les herbes, st-hubert
 Amardeep 
->>>>>>> 00b14f8e09a13b72e47ba0f90e1cd185ff3fdc4e
+
+
